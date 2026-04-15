@@ -65,7 +65,7 @@ Columns is a color-matching puzzle game in the style of classic arcade titles. T
 
 This project runs in the **MARS/SATURN MIPS Simulator** with the bitmap display and keyboard MMIO tools enabled.
 
-1. Install [MARS](http://courses.missouristate.edu/KenVollmar/MARS/) (requires Java or [SATURN](https://github.com/1whatleytay/saturn)).
+1. Install [MARS](http://courses.missouristate.edu/KenVollmar/MARS/) [SATURN](https://github.com/1whatleytay/saturn).
 2. Decrypt the source (requires the key):
    ```bash
    gpg --decrypt columns.zip.gpg | tar -xz
