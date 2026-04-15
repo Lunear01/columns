@@ -51,10 +51,13 @@ Columns is a color-matching puzzle game in the style of classic arcade titles. T
 
 | Key | Action |
 |-----|--------|
-| `A` | Move piece left |
-| `D` | Move piece right |
-| `S` | Soft drop |
-| `W` | Rotate colors within piece |
+| `a` | Move piece left |
+| `d` | Move piece right |
+| `s` | Soft drop |
+| `w` | Rotate colors within piece |
+| `r` | Restart game | 
+| `p` | Pause/resume game |
+| `q` | End game session |
 
 ---
 
